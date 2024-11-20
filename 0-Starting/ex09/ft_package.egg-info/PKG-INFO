@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: ft-package
+Version: 0.0.1
+Summary: A sample test package
+Home-page: https://github.com/Mirgc/Python-for-Data-Science/tree/main/0-Starting/ex09/ft_package
+Author: migarcia
+Author-email: migarcia@student.42urduliz.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# ft_package
+
+`ft_package` is a test package that contains the function `count_in_list`.
+
+### Install
+
+At main directory, install the package localy:
+
+```bash
+pip install .
+
